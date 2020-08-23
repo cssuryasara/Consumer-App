@@ -1,16 +1,24 @@
-# login
+# Foodyz-ConsumerApp
 
-A new Flutter application.
+Food ordering app (i.e, for college canteen )
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Online food ordering system that enables ease for the customers. It overcomes the disadvantages of the traditional queueing system. It is a medium to order online food hassle free from College Canteens. This system improves the method of taking the order from customer. The online food ordering system sets up a food menu online and customers can easily place the order as per their wish.
+The payment can be made online or pay-on-delivery system.
 
-A few resources to get you started if this is your first Flutter project:
+This project consists od two apps,This is one of the apps under this project. Other app Can be found [Here](https://github.com/cssuryasara/Merchant-app)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Made Using [Flutter](https://flutter.dev/) And [Firebase](https://firebase.google.com/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Some UI Screenshots📷
+
+**Authenticatiom**
+![g](./gitreadme/picture1.png)![g](./gitreadme/picture2.png)
+**Menu**
+![g](./gitreadme/picture3.png)![g](./gitreadme/picture4.png)
+**Cart And Bill**
+![g](./gitreadme/picture5.png)![g](./gitreadme/picture6.png)
+**Profile AndPrevious Orders**
+![g](./gitreadme/picture7.png)![g](./gitreadme/picture8.png)
