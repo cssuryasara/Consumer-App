@@ -13,7 +13,7 @@ The payment can be made online or pay-on-delivery system.
 
 <img src="https://github.com/cssuryasara/consumer-app/blob/master/UI%20screen_shots/bill.jpg" width="30%"> <img src="https://github.com/cssuryasara/consumer-app/blob/master/UI%20screen_shots/order%20profile.jpg" width="30%"> <img src="https://github.com/cssuryasara/consumer-app/blob/master/UI%20screen_shots/order%20history.jpg" width="30%">
 
-This project consists od two apps and this is one of the apps under this project. 
+This project consists of two apps and this is one of the apps under this project. 
 The other part of the app can be found [Here](https://github.com/cssuryasara/Merchant-app)
 
 
